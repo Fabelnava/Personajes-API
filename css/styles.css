@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    }
+    
+    
+    .header{
+    
+        width: 100%;
+        z-index: 1;
+    }
+    
+    .headerStyle{
+    
+        color: rgb(16, 149, 238);
+    }
+    
+    .datosPersonajes{
+    
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
